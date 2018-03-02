@@ -6,13 +6,10 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Definición del Projecto]()
 * [Propuesta de Proyecto]()
 * [Matriz de requerimientos]()
-* [Matriz de trazabilidad hoja]()
-* [Matriz de trazabilidad hoja]()
 * [Matriz de Riesgos 1.0]()
-* [Modelo Entidad Relacion]()
 * [Componentes del Sistema]()
 * [Definición de Arquitectura Inicial]()
-* [Flujo de Vistas y Arquitectura Inicial]()
+* [Flujo de Vistas y Arquitectura Inicial](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Ernie.docx)
 
 --
 

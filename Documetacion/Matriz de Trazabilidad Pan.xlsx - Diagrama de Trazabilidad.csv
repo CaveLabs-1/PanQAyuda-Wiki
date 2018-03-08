@@ -1,0 +1,56 @@
+,,,,,html,backend,,ya lo vio en produccion,
+,ID,CASOS DE USO,Análisis,Aprobado,Diseñado,Implementado,Pruebas,Autorizado,Operando
+,,[Nombre de caso de uso],(Si/No),No,No,No,No,No,No
+,27,Como administrativo quiero agregar una Receta para poder tener registrado cuánta materia prima necesito para hacer un producto y obtener su costo.,Sí,Sí,Sí,Sí,sí,No,No
+,15,Como administrativo quiero agregar una orden de trabajo para que en producción hagan el producto,Sí,Sí,Sí,Sí,No,No,No
+,16,"Como administrativo, quiero poder editar una orden de trabajo para que tenga los datos correctos",Sí,Sí,No,No,No,No,No
+,17,"Como administrativo, quiero poder cancelar una orden de trabajo para tomar las medidas necesarias y no seguir con esa orden en producción",Sí,Sí,No,No,No,No,No
+,18,Como administrativo quiero terminar una orden de trabajo para indicar que el trabajo fue hecho.,Sí,Sí,No,No,No,No,No
+,19,"Como administrativo, quiero consultar el inventario de productos terminados para ver mi lista de productos y saber más información de ellas.",Sí,Sí,No,No,No,No,No
+,21,Como administrativo quiero poder agregar un paquete tener nuestro inventario actualizado,Sí,Sí,Sí,Si,No,No,No
+,22,Como administrativo quiero editar un paquete para tener nuestro inventario actualizado,Sí,Sí,No,Si,No,No,No
+,23,Como administrativo quiero eliminar un paquete para tener nuestro inventario actualizado,Sí,Sí,No,Si,No,No,No
+,24,Como administrativo quiero agregar un paquete al catálogo de paquetes para tener registro de los paquetes que vendemos,Sí,Sí,Sí,Si,No,No,No
+,25,Como administrativo quiero Editar un paquete del catálogo de paquetes para tenerlo actualizado nuestro catálogo,Sí,Sí,Sí,Sí,No,No,No
+,26,Como administrativo quiero eliminar un paquete del catálogo de paquetes para que ya no aparezca en nuestro catálogo,Sí,Sí,Si,Si,No,No,No
+,28,Como administrativo quiero editar una Receta para poder tener actualizado cuánta materia prima necesito para hacer mis productos.,Sí,Sí,Sí,Si,No,No,No
+,29,"Como administrativo quiero eliminar una Receta para que en caso de que ya no se produzca el producto de esa receta, no me aparezca.",Sí,Sí,Sí,Si,No,No,No
+,34,Como administrador quiero consultar el costo de un producto para asignarle un precio,No,No,No,No,No,No,No
+,1,"Como usuario administrativo, quiero poder agregar un proveedor para tener un registro de ellos",No,No,No,No,No,No,No
+,2,"Como administrativo, quiero poder editar la información de un proveedor para poder mantenerlos actualizados",No,No,No,No,No,No,No
+,3,"Como administrativo, quiero poder eliminar un proveedor de mi lista para mantener mi lista actualizada",No,No,No,No,No,No,No
+,7,"Como administrativo, quiero poder agregar una compra para dar de alta las materias primas que adquirí",No,No,No,No,No,No,No
+,8,"Como  administrtaivo, quiero poder editar una compra para corregir información o actualizarla en caso de que sea necesario.",No,No,No,No,No,No,No
+,9,"Como administrativo, quiero poder eliminar una compra para que en caso de error no afecte en mi inventario ni en mi cuenta.",No,No,No,No,No,No,No
+,10,"Como administrador, quiero poder consultar reporte de entradas para saber qué nos han vendido los proveedores",No,No,No,No,No,No,No
+,33,Como administrador quiero consultar un reporte para saber como van las ventas y el inventario,No,No,No,No,No,No,No
+,36,Como administartivo quiero generar una venta para tener un control sobre mis ventas,No,No,No,No,No,No,No
+,37,Como administrativo quiero modificar una venta para corregir una venta hecha,No,No,No,No,No,No,No
+,38,Como administrativo quiero cancelar una venta para evitar que ventas no completadas se guarden en mi registro.,No,No,No,No,No,No,No
+,39,Como administrativo quiero agregar un cliente para tener su información,No,No,No,No,No,No,No
+,40,Como administrativo quiero modificar un cliente para cambiar la información que tenía de él,No,No,No,No,No,No,No
+,41,Como administrativo quiero eliminar un cliente para borrar la información que tenía de él,No,No,No,No,No,No,No
+,43,Como administrativo quiero consultar historial de cliente para saber que y cuándo nos ha comprado,No,No,No,No,No,No,No
+,11,"Como  administrativo, quiero poder crear una materia prima al catálogo de materias primas para llevar un registro de todas las materias primas que me proveen",No,No,No,No,No,No,No
+,12,"Como  administrativo, quiero poder editar materia prima del catálogo de materias primas para tener la información correcta de cada materia prima",No,No,No,No,No,No,No
+,13,"Como  administrativo, quiero poder eliminar una materia prima del catálogo de materias primas para tener actualizado mi catálogo de materias primas.",No,No,No,No,No,No,No
+,14,"Como  administrativo, quiero poder consultar el inventario de materias primas para consultar qué materias primas tengo registradas y puede saber más información de ellas.",No,No,No,No,No,No,No
+,20,Como administrativo quiero poder agregar mermas de productos terminados para tener nuestro inventario de productos actualizado,No,No,No,No,No,No,No
+,35,Como administrativo quiero que me llegue una notificacion cuando el material va a caducar para evitar que caduque,No,No,No,No,No,No,No
+,46,Como usuario registado quiero iniciar sesión para que alguien sin cuenta no pueda entrar al sistema,No,No,No,No,No,No,No
+,47,Como usuario registrado quiero terminar sesión para salir del sistema,No,No,No,No,No,No,No
+,48,Como administrador quiero crear usuario para que tenga acceso al sistema.,No,No,No,No,No,No,No
+,49,Como administrador quiero modificar usuario para  que tenga los datos correctos. ,No,No,No,No,No,No,No
+,50,Como administrador quiero eliminar usuario para que ya no tenga acceso al sistema.,No,No,No,No,No,No,No
+,4,"Como administrativo, quiero poder subir un archivo de factura para verificar que haya capturado bien el inventario",No,No,No,No,No,No,No
+,5,"Como administrativo, quiero poder eliminar archivo de factura para no tener archivos inservibles",No,No,No,No,No,No,No
+,6,"Como administrativo, quiero poder subir un XML de Factura para hacer una captura automática",No,No,No,No,No,No,No
+,30,Como administrativo quiero agregar una categoría para tener mejor ordenados los productos.,No,No,No,No,No,No,No
+,31,Como administrativo quiero modificar una categoría para que tenga los datos correctos,No,No,No,No,No,No,No
+,32,Como administrativo quiero eliminar una categoría para sólo tener las necesarias.,No,No,No,No,No,No,No
+,42,Como administrativo quiero consultar historial de ventas para saber cómo van las ventas,No,No,No,No,No,No,No
+,44,Como administrativo quiero consultar pedidos para saber qué pedidos están activos,No,No,No,No,No,No,No
+,45,Como administrativo quiero concluir pedido para tener un órden de los pedidos hechos,No,No,No,No,No,No,No
+,51,Como administrativo quiero agregar una franquicia para que tenga acceso al sistema.,No,No,No,No,No,No,No
+,52,Como administrativo quiero modificar una franquicia para que tenga los datos correctos actualizados.,No,No,No,No,No,No,No
+,53,Como administrativo quiero eliminar una franquicia para que ya no tenga acceso al sistema.,No,No,No,No,No,No,No

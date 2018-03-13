@@ -3,9 +3,9 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos diseñados para el desarrollo de software específicamente para el proyecto de PanQAyuda.
 
 ## Incepción
-* [Definición del Projecto](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/JIMMY%20PANQEAYUDA.pdf)
-* [Propuesta de Proyecto](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Project%20Proposal%20(Timmy).pdf)
-* [Matriz de requerimientos](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Matriz%20de%20Requerimientos%20-%20Sheet1.csv)
+* [Definición del Projecto 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/JIMMY%20PANQEAYUDA.pdf)
+* [Propuesta de Proyecto 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Project%20Proposal%20(Timmy).pdf)
+* [Matriz de requerimientos 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Matriz%20de%20Requerimientos%20-%20Sheet1.csv)
 * Matriz de Trazabilidad
   * [Hoja 1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Matriz%20de%20Trazabilidad%20Pan.xlsx%20-%20Acceptance%20Criteria.csv)
   * [Hoja 2](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Matriz%20de%20Trazabilidad%20Pan.xlsx%20-%20Diagrama%20de%20Trazabilidad.csv)

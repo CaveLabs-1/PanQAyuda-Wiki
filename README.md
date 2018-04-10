@@ -2,6 +2,10 @@
 
 En este espacio se encuentra toda la documentación correspondiente a los procesos diseñados para el desarrollo de software específicamente para el proyecto de PanQAyuda.
 
+## Políticas del Equipo
+* [Documento de Políticas](https://drive.google.com/open?id=16bs4YIV3DMsAwmnXOtsIrDMpJAOQb7od)
+
+
 ## Incepción
 * [Definición del Projecto 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/JIMMY%20PANQEAYUDA.pdf)
 * [Propuesta de Proyecto 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Project%20Proposal%20(Timmy).pdf)
@@ -18,4 +22,4 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 --
 
-Última edición: @davidsrn marzo 13, 2018
+Última edición: @valternunez 10 de abril 2018

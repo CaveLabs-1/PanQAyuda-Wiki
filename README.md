@@ -43,6 +43,9 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 * ### Involucramiento de Stakeholders
   * [Minutas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/tree/master/Documetacion/Minutas)
+
+* ### Aciones Correctivas
+  * [Documento](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Plantilla%20de%20acciones%20correctivas%201.2.docx)
 --
 
 Última edición: @manuel 19 Abril 2018

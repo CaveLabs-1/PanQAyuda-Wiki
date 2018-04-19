@@ -41,6 +41,8 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
   * [Kanban](https://docs.google.com/spreadsheets/d/1HhozxbCjJ6b3OLg7bCWEjgHJqHRoVhN1YNygcr9AEto/edit?usp=sharing)
   * [Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
 
+* ### Involucramiento de Stakeholders
+  * [Minutas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/tree/master/Documetacion/Minutas)
 --
 
 Última edición: @manuel 19 Abril 2018

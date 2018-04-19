@@ -20,6 +20,20 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Definición de Arquitectura Inicial](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Herson.pdf)
 * [Flujo de Vistas y Arquitectura Inicial 1.1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Ernie.pdf)
 
+## Construcción
+* ### Primera Iteración
+  * [Overview](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%201/Overview%20iteraci%C3%B3n%20-%20Tablas.csv)
+  * [Burndown](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%201/Burndown.png)
+  * [Retrospectiva](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%201/Bob%20the%20Builder%20IT%201.pdf)
+
+* ### Segunda Iteración
+  * [Overview](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%202/Overview.csv)
+  * [Tareas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%202/Tasks.csv)
+  * [Horas por persona](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%202/Horas%20por%20persona.csv)
+  * [Esfuerzo real vs planeado](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%202/Esfuerzo%20Real%20Vs%20Planeado.png)
+  * [Valor ganado vs planeado](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%202/Valor%20Ganado%20vs%20Valor%20Planeadi.png)
+  * [Retrospectiva](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%202/Bob%20the%20Builder%20IT%202.pdf)
+
 --
 
-Última edición: @valternunez 10 de abril 2018
+Última edición: @davidsrn 18 de abril 2018

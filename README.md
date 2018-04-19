@@ -24,7 +24,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * ### Primera Iteración
   * [Overview](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%201/Overview%20iteraci%C3%B3n%20-%20Tablas.csv)
   * [Burndown](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%201/Burndown.png)
-  * [Riesgos] (https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
+  * [Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
   * [Retrospectiva](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%201/Bob%20the%20Builder%20IT%201.pdf)
 
 * ### Segunda Iteración
@@ -33,15 +33,14 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
   * [Horas por persona](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%202/Horas%20por%20persona.csv)
   * [Esfuerzo real vs planeado](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%202/Esfuerzo%20Real%20Vs%20Planeado.png)
   * [Valor ganado vs planeado](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Iteraci%C3%B3n%202/Valor%20Ganado%20vs%20Valor%20Planeadi.png)
-  * [Riesgos] (https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
+  * [Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
   * [Retrospectiva](https://docs.google.com/document/d/1nWPH5a3TpJHnB7jg0xWD_eV1Z_QizuUEJtYbdprxW0s/edit?usp=sharing)
 
 * ### Tercera Iteración
   * [Overview](https://docs.google.com/spreadsheets/d/1igRDieRfETSmOTRd5WtgJkV5ETXmByCWIX93dbrDKa0/edit?usp=sharing)
   * [Kanban](https://docs.google.com/spreadsheets/d/1HhozxbCjJ6b3OLg7bCWEjgHJqHRoVhN1YNygcr9AEto/edit?usp=sharing)
   * [Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
-  * [Retrospectiva] ()
 
 --
 
-Última edición: @davidsrn 18 de abril 2018
+Última edición: @manuel 19 Abril 2018

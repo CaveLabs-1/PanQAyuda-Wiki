@@ -14,6 +14,8 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
   * [Hoja 1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Acceptance%20Criteria.pdf)
   * [Hoja 2](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Diagrama%20de%20Trazabilidad.pdf)
   * [Hoja 3](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Matriz%20de%20Trazabilidad.pdf)
+   * [Hoja 4](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Bita%CC%81cora%20de%20Requerimientos.pdf)
+   * [Hoja 5](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Modificacio%CC%81n%20de%20requerimientos.pdf)
 * [Estimación de Function Points](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Function%20Points%20Estimation%20-%20Hoja%201.csv)
 * [Matriz de Riesgos 1.3](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
 * [Componentes del Sistema 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documetacion/Formato%20Linguine%20Le%20Pane%20Q'%20Ayud%C3%A9.pdf)

@@ -1,7 +1,7 @@
-# Bienvenido a la Wiki oficial de Libelulas
+# Bienvenido a la Wiki oficial de PanQAyuda
 En este espacio se encuentra toda la documentación correspondiente a los procesos diseñados para el desarrollo de software para el proyecto de PanQAyuda.
 
-### Incepción
+## Linea Base
 * [Definición del Proyecto 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Jimmy%20Definicio%CC%81n%20de%20proyecto.pdf)
 * [Contexto de la Problemática 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Project%20Proposal%20Timmy.pdf )
 * [Matriz de requerimientos 2.3](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Requerimientos%20-%20Sheet1.csv)
@@ -12,9 +12,6 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Flujo de Vistas y Arquitectura Inicial 1.1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Ernie.pdf)
 * [Cálculo de estimaciónes](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Function%20Points%20Estimation%20-%20Hoja%201.csv)
 
-<!-- ## Repositorio Métricas
-* [Métricas del equipo](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Modelo%20Goal%20Question%20Metric%20.pdf)-->
-
 ### Reporte Usabilidad
 * [Usabilidad](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Plantilla%20Heur%C3%ADstica%20.pdf)
 
@@ -22,7 +19,11 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Minutas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/tree/master/Documentacion/Minutas)
 
 
-## Construcción
+
+## Linea de Trabajo
+<!-- ## Repositorio Métricas
+* [Métricas del equipo](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Modelo%20Goal%20Question%20Metric%20.pdf)-->
+
 * #### Estatus del Proyecto Primera Iteracion
   * [WBS](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%201/WBS_IT_1.csv)
   * [Report](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%201/Report_it_1.pdf)
@@ -40,4 +41,4 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 --
 
-Última edición: @davidsrn abril 26, 2018
+Última edición: @davidsrn abril 27, 2018

@@ -1,53 +1,43 @@
-# Documentación del proyecto de PanQAyuda
+# Bienvenido a la Wiki oficial de Libelulas
+En este espacio se encuentra toda la documentación correspondiente a los procesos diseñados para el desarrollo de software para el proyecto de PanQAyuda.
 
-En este espacio se encuentra toda la documentación correspondiente a los procesos diseñados para el desarrollo de software específicamente para el proyecto de PanQAyuda.
-
-## Políticas del Equipo
-* [Documento de Políticas](https://drive.google.com/open?id=16bs4YIV3DMsAwmnXOtsIrDMpJAOQb7od)
-
-
-## Incepción
-* [Definición del Projecto 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/danielamezcua-a%C3%B1adir-jimmy-firmado/Documentacion/Jimmy%20(Definicio%CC%81n%20de%20proyecto).pdf)
-* [Propuesta de Proyecto 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Project%20Proposal%20(Timmy).pdf)
-* [Matriz de requerimientos 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Requerimientos%20-%20Sheet1.csv)
-* Matriz de Trazabilidad
-  * [Hoja 1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Acceptance%20Criteria.pdf)
-  * [Hoja 2](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Diagrama%20de%20Trazabilidad.pdf)
-  * [Hoja 3](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Matriz%20de%20Trazabilidad.pdf)
-   * [Hoja 4](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Bita%CC%81cora%20de%20Requerimientos.pdf)
-   * [Hoja 5](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan%20-%20Modificacio%CC%81n%20de%20requerimientos.pdf)
-* [Estimación de Function Points](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Function%20Points%20Estimation%20-%20Hoja%201.csv)
-* [Matriz de Riesgos 1.3](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
+### Incepción
+* [Definición del Proyecto 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Jimmy%20Definicio%CC%81n%20de%20proyecto.pdf)
+* [Contexto de la Problemática 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Project%20Proposal%20Timmy.pdf )
+* [Matriz de requerimientos 2.3](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Requerimientos%20-%20Sheet1.csv)
+* [Matriz de trazabilidad 4.1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan.xlsx)
+* [Matriz de Riesgos 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Riesgos%20Pan%20'Q%20Ayuda%20-%20Sheet3.csv)
 * [Componentes del Sistema 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Formato%20Linguine%20Le%20Pane%20Q'%20Ayud%C3%A9.pdf)
-* [Definición de Arquitectura Inicial](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Herson.pdf)
+* [Definición de Arquitectura Inicial 1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Herson.pdf)
 * [Flujo de Vistas y Arquitectura Inicial 1.1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Ernie.pdf)
+* [Cálculo de estimaciónes](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Function%20Points%20Estimation%20-%20Hoja%201.csv)
+
+<!-- ## Repositorio Métricas
+* [Métricas del equipo](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Modelo%20Goal%20Question%20Metric%20.pdf)-->
+
+### Reporte Usabilidad
+* [Usabilidad](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Plantilla%20Heur%C3%ADstica%20.pdf)
+
+### Involucramiento Stakeholders
+* [Minutas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/tree/master/Documentacion/Minutas)
+
 
 ## Construcción
-* ### Primera Iteración
-  * [Overview](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%201/Overview%20iteraci%C3%B3n%20-%20Tablas.csv)
-  * [Burndown](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%201/Burndown.png)
-  * [Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
+* #### Estatus del Proyecto Primera Iteracion
+  * [WBS](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%201/WBS_IT_1.csv)
+  * [Report](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%201/Report_it_1.pdf)
   * [Retrospectiva](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%201/Bob%20the%20Builder%20IT%201.pdf)
+* #### Estatus del Proyecto Segunda Iteracion
+  * [WBS](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Overview.csv)
+  * [Report](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/report_it_2.pdf)
+  *  [Retrospectiva](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Bob%20the%20Builder%20IT%202.pdf)
+* #### Estatus del Proyecto General
+  <!-- * [Datos y Gráficas](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20General%20Plan%20Libelulas.pdf) -->
+  * [PSP/Defects Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/1)
 
-* ### Segunda Iteración
-  * [Overview](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Overview.csv)
-  * [Tareas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Tasks.csv)
-  * [Horas por persona](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Horas%20por%20persona.csv)
-  * [Esfuerzo real vs planeado](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Esfuerzo%20Real%20Vs%20Planeado.png)
-  * [Valor ganado vs planeado](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Valor%20Ganado%20vs%20Valor%20Planeadi.png)
-  * [Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
-  * [Retrospectiva](https://docs.google.com/document/d/1nWPH5a3TpJHnB7jg0xWD_eV1Z_QizuUEJtYbdprxW0s/edit?usp=sharing)
+* #### [Acciones Correctivas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Plantilla%20de%20acciones%20correctivas%201.1.docx.pdf)
 
-* ### Tercera Iteración
-  * [Overview](https://docs.google.com/spreadsheets/d/1igRDieRfETSmOTRd5WtgJkV5ETXmByCWIX93dbrDKa0/edit?usp=sharing)
-  * [Kanban](https://docs.google.com/spreadsheets/d/1HhozxbCjJ6b3OLg7bCWEjgHJqHRoVhN1YNygcr9AEto/edit?usp=sharing)
-  * [Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit?usp=sharing)
 
-* ### Involucramiento de Stakeholders
-  * [Minutas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/tree/master/Documentacion/Minutas)
-
-* ### Aciones Correctivas
-  * [Documento](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Plantilla%20de%20acciones%20correctivas%201.2.docx)
 --
 
-Última edición: @manuel 19 Abril 2018
+Última edición: @MarcoMancha abril 20, 2018

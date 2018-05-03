@@ -23,6 +23,8 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 <!-- * [WBS](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Overview.csv) -->
 * [Estatus del Proyecto Segunda Iteración](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/report_it_2.pdf)
 *  [Retrospectiva Segunda Iteración](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Bob%20the%20Builder%20IT%202.pdf)
+* [Estatus del Proyecto Tercera Iteración](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%203/report_it_3.pdf)
+* Retrospectiva Tercera Iteración (Pendiente)
 * [PSP/Defects Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/1)
 * [Matriz de trazabilidad](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan.xlsx)
 * [Matriz de Riesgos](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Riesgos%20Pan%20'Q%20Ayuda%20-%20Sheet3.csv)

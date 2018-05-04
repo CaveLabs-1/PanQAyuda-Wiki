@@ -28,7 +28,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [PSP/Defects Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/1)
 * [Matriz de trazabilidad](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan.xlsx)
 * [Matriz de Riesgos](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Riesgos%20Pan%20'Q%20Ayuda%20-%20Sheet3.csv)
-* [Acciones Correctivas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Plantilla%20de%20acciones%20correctivas%201.1.docx.pdf)
+* [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1ZT_MI7knWyIIHRDnXU2QmqKeJZvpwqL_3F178dJ24Ks/edit?usp=sharing)
 
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/tree/master/Documentacion/Minutas)

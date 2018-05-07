@@ -35,4 +35,4 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 --
 
-Última edición: @davidsrn mayo 3, 2018
+Última edición: @davidsrn mayo 7, 2018

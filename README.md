@@ -11,20 +11,18 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * Manual de Usuario (Pendiente)
 * Handbook de Arquitectura (Pendiente)
 * [Model Goal Question Metric v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/MA/PAN%20-%20Modelo%20Goal%20Question%20Metric%20.pdf)
-* [Resultados de Heurística v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Plantilla%20Heur%C3%ADstica%20.pdf)7
+* [Resultados de Heurística v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Resultado%20Plantilla%20Heur%C3%ADstica%20.pdf)
 * [Formato SWAT v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/FormatoPruebasSWAT.pdf)
 
 
 ## Linea de Trabajo
 <!-- ## Repositorio Métricas
 * [Métricas del equipo](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Modelo%20Goal%20Question%20Metric%20.pdf)-->
-
   <!-- * [Estatus del Proyecto Primera Iteración](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%201/WBS_IT_1.csv) -->
 * [Estatus del Proyecto Primera Iteración](https://docs.google.com/spreadsheets/d/1g5BfpYksrKwrYMhZFdLVoBuAdIttVst6gjWTHmtG7IM/edit?usp=sharing)
 * [Retrospectiva Primera Iteración](https://docs.google.com/document/d/1bGa5TzvTBRwXy9T88tCmbTGrX6hFIlJi9vqrqdpSEnc/edit?usp=sharing)
-<!-- * [WBS](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Iteraci%C3%B3n%202/Overview.csv) -->
 * [Estatus del Proyecto Segunda Iteración](https://docs.google.com/spreadsheets/d/11qrDQG4ZDiGRbrfrPE3Qex0Yht2c7dgeoqzJ0eOrRT8/edit?usp=sharing)
-*  [Retrospectiva Segunda Iteración](https://docs.google.com/document/d/1nWPH5a3TpJHnB7jg0xWD_eV1Z_QizuUEJtYbdprxW0s/edit?usp=sharing)
+* [Retrospectiva Segunda Iteración](https://docs.google.com/document/d/1nWPH5a3TpJHnB7jg0xWD_eV1Z_QizuUEJtYbdprxW0s/edit?usp=sharing)
 * [Estatus del Proyecto Tercera Iteración](https://docs.google.com/spreadsheets/d/1igRDieRfETSmOTRd5WtgJkV5ETXmByCWIX93dbrDKa0/edit?usp=sharing)
 * Retrospectiva Tercera Iteración (Pendiente)
 * [PSP/Defects Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/1)

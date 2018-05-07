@@ -27,7 +27,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * Retrospectiva Tercera Iteración (Pendiente)
 * [PSP/Defects Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/1)
 * [Matriz de trazabilidad](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan.xlsx)
-* [Matriz de Riesgos](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Riesgos%20Pan%20'Q%20Ayuda%20-%20Sheet3.csv)
+* [Matriz de Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit#gid=1889672932)
 * [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1ZT_MI7knWyIIHRDnXU2QmqKeJZvpwqL_3F178dJ24Ks/edit?usp=sharing)
 
 ## Involucramiento Stakeholders

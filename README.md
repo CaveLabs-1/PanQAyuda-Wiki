@@ -7,7 +7,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Componentes del Sistema v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Componentes%20del%20Sistema.pdf)
 * [Flujo de Vistas v1.1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Flujo%20de%20Vistas.pdf)
 * [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Definici%C3%B3n%20de%20Arquitectura.pdf)
-* [Estimaciónes de Function Points v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Requerimientos/Estimaci%C3%B3n.csv)
+* [Estimaciones de Function Points v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Requerimientos/Estimaci%C3%B3n.csv)
 * [Manual de Usuario](https://drive.google.com/file/d/11QDDNBCPtRh-W4dK0uLAAajrPv2GC7xo/view?usp=sharing)
 * [Handbook de Arquitectura](https://docs.google.com/document/d/1rwqdiLcfuYi9ZxGRZGcl5PUsppJizXLkK4oyaso3YeQ/edit?usp=sharing)
 * [Model Goal Question Metric v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/MA/PAN%20-%20Modelo%20Goal%20Question%20Metric%20.pdf)
@@ -35,4 +35,4 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 --
 
-Última edición: @davidsrn mayo 7, 2018
+Última edición: @danielamezcua mayo 10, 2018

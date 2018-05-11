@@ -31,6 +31,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Matriz de trazabilidad](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan.xlsx)
 * [Matriz de Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit#gid=1889672932)
 * [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1ZT_MI7knWyIIHRDnXU2QmqKeJZvpwqL_3F178dJ24Ks/edit?usp=sharing)
+* [Estatus General del Proyecto](https://docs.google.com/spreadsheets/d/1G3fw_-_IItXcB-tNx3ilmoyxHT0PDnoqLBW5QdQDgLE/edit#gid=238963500)
 
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/tree/master/Minutas)

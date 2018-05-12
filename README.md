@@ -4,9 +4,9 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 ## Linea Base
 * [Definición del Proyecto v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Requerimientos/Project%20Definition.pdf)
 * [Propuesta del Proyecto v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Requerimientos/Project%20Proposal.pdf)
-* [Componentes del Sistema v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Componentes%20del%20Sistema.pdf)
+* [Componentes del Sistema v1.1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Componentes%20del%20Sistema.pdf)
 * [Flujo de Vistas v1.1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Flujo%20de%20Vistas.pdf)
-* [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Definici%C3%B3n%20de%20Arquitectura.pdf)
+* [Arquitectura Inicial v1.2](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Definici%C3%B3n%20de%20Arquitectura.pdf)
 * [Estimaciones de Function Points v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Requerimientos/Estimaci%C3%B3n.csv)
 * [Manual de Usuario](https://drive.google.com/file/d/11QDDNBCPtRh-W4dK0uLAAajrPv2GC7xo/view?usp=sharing)
 * [Handbook de Arquitectura](https://docs.google.com/document/d/1rwqdiLcfuYi9ZxGRZGcl5PUsppJizXLkK4oyaso3YeQ/edit?usp=sharing)

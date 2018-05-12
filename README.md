@@ -24,11 +24,14 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Estatus del Proyecto Segunda Iteración](https://docs.google.com/spreadsheets/d/11qrDQG4ZDiGRbrfrPE3Qex0Yht2c7dgeoqzJ0eOrRT8/edit?usp=sharing)
 * [Retrospectiva Segunda Iteración](https://docs.google.com/document/d/1nWPH5a3TpJHnB7jg0xWD_eV1Z_QizuUEJtYbdprxW0s/edit?usp=sharing)
 * [Estatus del Proyecto Tercera Iteración](https://docs.google.com/spreadsheets/d/1igRDieRfETSmOTRd5WtgJkV5ETXmByCWIX93dbrDKa0/edit?usp=sharing)
-* Retrospectiva Tercera Iteración (Pendiente)
+* [Retrospectiva Tercera Iteración](https://docs.google.com/document/d/1uGWLoGvf0UvaA5grOiH0Jp0nd9k1uHm2Ykw96ZxptxU/edit?usp=sharing)
+* [Estatus del Proyecto Transición](https://docs.google.com/spreadsheets/d/18sFgXDVmMvVFcTjuaV5xmMJLUNupoAzsS6IyhmdjYrc/edit?usp=sharing)
+* [Retrospectiva Transición (Pendiente)]()
 * [PSP/Defects Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/1)
 * [Matriz de trazabilidad](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan.xlsx)
 * [Matriz de Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit#gid=1889672932)
 * [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1ZT_MI7knWyIIHRDnXU2QmqKeJZvpwqL_3F178dJ24Ks/edit?usp=sharing)
+* [Estatus General del Proyecto](https://docs.google.com/spreadsheets/d/1G3fw_-_IItXcB-tNx3ilmoyxHT0PDnoqLBW5QdQDgLE/edit#gid=238963500)
 
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/PanQAyuda-Wiki/tree/master/Minutas)

@@ -28,7 +28,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Estatus del Proyecto Transición](https://docs.google.com/spreadsheets/d/18sFgXDVmMvVFcTjuaV5xmMJLUNupoAzsS6IyhmdjYrc/edit?usp=sharing)
 * [Retrospectiva Transición (Pendiente)]()
 * [PSP/Defects Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/1)
-* [Matriz de trazabilidad](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan.xlsx)
+* [Matriz de trazabilidad](https://docs.google.com/spreadsheets/d/1KT-wk2jhhl7WeX78nUG69Vn4D6KdUho6R3CaZCjGKvI/edit?usp=sharing)
 * [Matriz de Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit#gid=1889672932)
 * [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1ZT_MI7knWyIIHRDnXU2QmqKeJZvpwqL_3F178dJ24Ks/edit?usp=sharing)
 * [Estatus General del Proyecto](https://docs.google.com/spreadsheets/d/1G3fw_-_IItXcB-tNx3ilmoyxHT0PDnoqLBW5QdQDgLE/edit#gid=238963500)

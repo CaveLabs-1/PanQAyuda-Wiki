@@ -2,8 +2,8 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos diseñados para el desarrollo de software para el proyecto de PanQAyuda.
 
 ## Linea Base
-* [Definición del Proyecto v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Requerimientos/Project%20Definition.pdf)
-* [Propuesta del Proyecto v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Requerimientos/Project%20Proposal.pdf)
+* [Contexto de la Problemática v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Requerimientos/Project%20Definition.pdf)
+* [Definición del Proyecto v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Requerimientos/Project%20Proposal.pdf)
 * [Componentes del Sistema v1.1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Componentes%20del%20Sistema.pdf)
 * [Flujo de Vistas v1.1](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Flujo%20de%20Vistas.pdf)
 * [Arquitectura Inicial v1.2](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/Definici%C3%B3n%20de%20Arquitectura.pdf)
@@ -38,4 +38,4 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 --
 
-Última edición: @danielamezcua mayo 10, 2018
+Última edición: @pirty6 mayo 14, 2018

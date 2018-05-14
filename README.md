@@ -12,7 +12,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Handbook de Arquitectura](https://docs.google.com/document/d/1rwqdiLcfuYi9ZxGRZGcl5PUsppJizXLkK4oyaso3YeQ/edit?usp=sharing)
 * [Model Goal Question Metric v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/MA/PAN%20-%20Modelo%20Goal%20Question%20Metric%20.pdf)
 * [Resultados de Heurística v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Resultado%20Plantilla%20Heur%C3%ADstica%20.pdf)
-* [Resultados de Pruebas v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/ServerTesting.md) : Los resultados de server tests del proyecto.
+* [Resultados de Pruebas v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/ServerTesting.md): Los resultados de server tests del proyecto.
 * [Formato SWAT v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/FormatoPruebasSWAT.pdf)
 
 

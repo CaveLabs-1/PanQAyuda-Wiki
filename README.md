@@ -12,6 +12,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Handbook de Arquitectura](https://docs.google.com/document/d/1rwqdiLcfuYi9ZxGRZGcl5PUsppJizXLkK4oyaso3YeQ/edit?usp=sharing)
 * [Model Goal Question Metric v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/MA/PAN%20-%20Modelo%20Goal%20Question%20Metric%20.pdf)
 * [Resultados de Heurística v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Resultado%20Plantilla%20Heur%C3%ADstica%20.pdf)
+* [Resultados de Pruebas v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/ServerTesting.md)
 * [Formato SWAT v1.0](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Arquitectura/FormatoPruebasSWAT.pdf)
 
 
@@ -23,10 +24,13 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Retrospectiva Primera Iteración](https://docs.google.com/document/d/1bGa5TzvTBRwXy9T88tCmbTGrX6hFIlJi9vqrqdpSEnc/edit?usp=sharing)
 * [Estatus del Proyecto Segunda Iteración](https://docs.google.com/spreadsheets/d/11qrDQG4ZDiGRbrfrPE3Qex0Yht2c7dgeoqzJ0eOrRT8/edit?usp=sharing)
 * [Retrospectiva Segunda Iteración](https://docs.google.com/document/d/1nWPH5a3TpJHnB7jg0xWD_eV1Z_QizuUEJtYbdprxW0s/edit?usp=sharing)
+* [Reporte de Entrega Segunda Iteración](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Segunda%20entrega/Reporte%20entrega%202%20iteracio%CC%81n.pdf)
+* [Solicitud de Cambios Tercera Iteración](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Tercera%20entrega/Solicitud%20de%20Cambio%20de%20Requerimientos.pdf)
 * [Estatus del Proyecto Tercera Iteración](https://docs.google.com/spreadsheets/d/1igRDieRfETSmOTRd5WtgJkV5ETXmByCWIX93dbrDKa0/edit?usp=sharing)
 * [Retrospectiva Tercera Iteración](https://docs.google.com/document/d/1uGWLoGvf0UvaA5grOiH0Jp0nd9k1uHm2Ykw96ZxptxU/edit?usp=sharing)
+* [Reporte de Entrega Tercera Transición](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Tercera%20entrega/Reporte%20de%20entrega.pdf)
 * [Estatus del Proyecto Transición](https://docs.google.com/spreadsheets/d/18sFgXDVmMvVFcTjuaV5xmMJLUNupoAzsS6IyhmdjYrc/edit?usp=sharing)
-* [Retrospectiva Transición (Pendiente)]()
+<!---* [Retrospectiva Transición (Pendiente)]() --->
 * [PSP/Defects Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/1)
 * [Matriz de trazabilidad](https://github.com/CaveLabs-1/PanQAyuda-Wiki/blob/master/Documentacion/Matriz%20de%20Trazabilidad/Matriz%20de%20Trazabilidad%20Pan.xlsx)
 * [Matriz de Riesgos](https://docs.google.com/spreadsheets/d/13mZKN2Gazny50iRa1RBXC3Hy8b23N0zlmFpXU42lXsg/edit#gid=1889672932)
